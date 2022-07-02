@@ -1,3 +1,6 @@
+# You can solve every 9x9 sudoku in few seconds,
+# Overwrite "board" variables, put 0 in blankes.
+
 board = [
     [0,0,0,0,4,0,2,0,0],
     [0,0,0,0,2,0,5,0,1],
