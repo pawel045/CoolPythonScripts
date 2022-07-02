@@ -1,3 +1,5 @@
+# simple animation in cmd
+
 import random, time
 
 try:
